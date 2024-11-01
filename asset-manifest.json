@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Aroura/static/css/main.6e7d9440.css",
-    "main.js": "/Aroura/static/js/main.309322d0.js",
+    "main.css": "/Aroura/static/css/main.2d03d982.css",
+    "main.js": "/Aroura/static/js/main.6e6b7798.js",
     "static/js/453.22e1c854.chunk.js": "/Aroura/static/js/453.22e1c854.chunk.js",
     "static/media/desk-workspace-with-various-elements.jpg": "/Aroura/static/media/desk-workspace-with-various-elements.874a04c00d0238fb70cc.jpg",
+    "static/media/istockphoto-1266961895-612x612.jpg": "/Aroura/static/media/istockphoto-1266961895-612x612.2b186000394a441a0381.jpg",
     "index.html": "/Aroura/index.html",
-    "main.6e7d9440.css.map": "/Aroura/static/css/main.6e7d9440.css.map",
-    "main.309322d0.js.map": "/Aroura/static/js/main.309322d0.js.map",
+    "main.2d03d982.css.map": "/Aroura/static/css/main.2d03d982.css.map",
+    "main.6e6b7798.js.map": "/Aroura/static/js/main.6e6b7798.js.map",
     "453.22e1c854.chunk.js.map": "/Aroura/static/js/453.22e1c854.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7d9440.css",
-    "static/js/main.309322d0.js"
+    "static/css/main.2d03d982.css",
+    "static/js/main.6e6b7798.js"
   ]
 }

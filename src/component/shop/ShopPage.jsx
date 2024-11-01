@@ -1,15 +1,56 @@
 import React from 'react'
 
+
 export default function ShopPage() {
+
+
   return (
-    <>
-    <h1>Shop Page</h1>
-    <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam amet quasi quas at inventore 
-        fugit labore nulla soluta, ut, 
-        mollitia possimus exercitationem vero cumque sunt quis impedit modi laboriosam eveniet!
-    </p>
+    <div className='shop-container'>
+
+  <div className='product-col1'>
+        <div class="card">
+          <div class="card-image"></div>
+            <div class="card-content">
+            <h2 class="card-title">Card Title</h2>
+            <p class="card-description">This is a description of the card. It contains information about the content.</p>
+            <a href="/" class="card-button">Read More</a>
+            </div>
+        </div>
+
+        <div class="card">
+          <div class="card-image"></div>
+            <div class="card-content">
+            <h2 class="card-title">Card Title</h2>
+            <p class="card-description">This is a description of the card. It contains information about the content.</p>
+            <a href="/" class="card-button">Read More</a>
+            </div>
+        </div>
+        </div>
+
+
+    <div className='product-col2'>
+      <div class="card">
+        <div class="card-image"></div>
+          <div class="card-content">
+          <h2 class="card-title">Card Title</h2>
+          <p class="card-description">This is a description of the card. It contains information about the content.</p>
+          <a href="/" class="card-button">Read More</a>
+          </div>
+      </div>
+      
+      <div class="card">
+        <div class="card-image"></div>
+          <div class="card-content">
+          <h2 class="card-title">Card Title</h2>
+          <p class="card-description">This is a description of the card. It contains information about the content.</p>
+          <a href="/" class="card-button">Read More</a>
+          </div>
+      </div>
+      </div>
+
+
     
-    </>
+
+    </div>
   )
 }

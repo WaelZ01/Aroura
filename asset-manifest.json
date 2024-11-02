@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Aroura/static/css/main.2d03d982.css",
-    "main.js": "/Aroura/static/js/main.6e6b7798.js",
+    "main.css": "/Aroura/static/css/main.25f9b926.css",
+    "main.js": "/Aroura/static/js/main.028fee86.js",
     "static/js/453.22e1c854.chunk.js": "/Aroura/static/js/453.22e1c854.chunk.js",
-    "static/media/desk-workspace-with-various-elements.jpg": "/Aroura/static/media/desk-workspace-with-various-elements.874a04c00d0238fb70cc.jpg",
+    "static/media/9613873.png": "/Aroura/static/media/9613873.c6d9c6855c45f8fd41fa.png",
+    "static/media/5414835.jpg": "/Aroura/static/media/5414835.c9da5ea5973ecdeef49c.jpg",
     "static/media/istockphoto-1266961895-612x612.jpg": "/Aroura/static/media/istockphoto-1266961895-612x612.2b186000394a441a0381.jpg",
     "index.html": "/Aroura/index.html",
-    "main.2d03d982.css.map": "/Aroura/static/css/main.2d03d982.css.map",
-    "main.6e6b7798.js.map": "/Aroura/static/js/main.6e6b7798.js.map",
+    "main.25f9b926.css.map": "/Aroura/static/css/main.25f9b926.css.map",
+    "main.028fee86.js.map": "/Aroura/static/js/main.028fee86.js.map",
     "453.22e1c854.chunk.js.map": "/Aroura/static/js/453.22e1c854.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d03d982.css",
-    "static/js/main.6e6b7798.js"
+    "static/css/main.25f9b926.css",
+    "static/js/main.028fee86.js"
   ]
 }
